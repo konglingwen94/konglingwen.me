@@ -1,36 +1,32 @@
 {
   "assetsByChunkName": {
-    "path---articles-hello-world": [
-      "path---articles-hello-world-fff913aec6e83c8e317a.js",
-      "path---articles-hello-world-fff913aec6e83c8e317a.js.map"
-    ],
     "path---categories": [
-      "path---categories-9568bb8878679140d0f4.js",
-      "path---categories-9568bb8878679140d0f4.js.map"
+      "path---categories-1acfd96eb9d9d2a1e0fb.js",
+      "path---categories-1acfd96eb9d9d2a1e0fb.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js",
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js.map"
     ],
     "path---tags": [
-      "path---tags-9568bb8878679140d0f4.js",
-      "path---tags-9568bb8878679140d0f4.js.map"
+      "path---tags-1acfd96eb9d9d2a1e0fb.js",
+      "path---tags-1acfd96eb9d9d2a1e0fb.js.map"
     ],
     "path---": [
-      "path----361f09d52bf62592986d.js",
-      "path----361f09d52bf62592986d.js.map"
+      "path----a41c66e21233cdc8f8da.js",
+      "path----a41c66e21233cdc8f8da.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-cd17417dd84f7df4d93e.js",
-      "component---src-layouts-index-jsx-cd17417dd84f7df4d93e.js.map"
+      "component---src-layouts-index-jsx-c0b49fecb8055b444a8d.js",
+      "component---src-layouts-index-jsx-c0b49fecb8055b444a8d.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js",
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js.map"
     ],
     "path---index": [
-      "path---index-0aa8b232269e193866e2.js",
-      "path---index-0aa8b232269e193866e2.js.map"
+      "path---index-72e4c2a432f08b416f18.js",
+      "path---index-72e4c2a432f08b416f18.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-a25b5d9428065f0a71aa.js",
@@ -46,6 +42,10 @@
       "commons-001b187d764b6f551a53.js.map",
       "build-js-styles.css.map"
     ],
+    "path---articles-element-resize-event-polyfill": [
+      "path---articles-element-resize-event-polyfill-90d21c5ccf58358e8e05.js",
+      "path---articles-element-resize-event-polyfill-90d21c5ccf58358e8e05.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
@@ -59,9 +59,9 @@
       "component---src-pages-index-jsx-71fe515fc9d09c74b252.js.map"
     ],
     "app": [
-      "app-4896e64450b5ab174fb5.js",
+      "app-17904b1d6dc5eebd72a4.js",
       "build-js-styles.css",
-      "app-4896e64450b5ab174fb5.js.map",
+      "app-17904b1d6dc5eebd72a4.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -69,8 +69,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-e36fd05739488b1497f7.js",
-      "path---about-e36fd05739488b1497f7.js.map"
+      "path---about-463f713780776e91aaf2.js",
+      "path---about-463f713780776e91aaf2.js.map"
     ]
   }
 }
