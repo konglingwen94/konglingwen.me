@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---categories": [
-      "path---categories-1acfd96eb9d9d2a1e0fb.js",
-      "path---categories-1acfd96eb9d9d2a1e0fb.js.map"
+      "path---categories-b3db9f3d3fa54a075fc2.js",
+      "path---categories-b3db9f3d3fa54a075fc2.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js",
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js.map"
     ],
     "path---tags": [
-      "path---tags-1acfd96eb9d9d2a1e0fb.js",
-      "path---tags-1acfd96eb9d9d2a1e0fb.js.map"
+      "path---tags-b3db9f3d3fa54a075fc2.js",
+      "path---tags-b3db9f3d3fa54a075fc2.js.map"
     ],
     "path---": [
       "path----a41c66e21233cdc8f8da.js",
       "path----a41c66e21233cdc8f8da.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-c0b49fecb8055b444a8d.js",
-      "component---src-layouts-index-jsx-c0b49fecb8055b444a8d.js.map"
+      "component---src-layouts-index-jsx-52c4dd88d039447faf5e.js",
+      "component---src-layouts-index-jsx-52c4dd88d039447faf5e.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js",
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js.map"
     ],
     "path---index": [
-      "path---index-9f6739f306d8e56aee88.js",
-      "path---index-9f6739f306d8e56aee88.js.map"
+      "path---index-eaa2c6656cf2897b52f2.js",
+      "path---index-eaa2c6656cf2897b52f2.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-a25b5d9428065f0a71aa.js",
@@ -43,8 +43,8 @@
       "build-js-styles.css.map"
     ],
     "path---articles-element-resize-event-polyfill": [
-      "path---articles-element-resize-event-polyfill-90d21c5ccf58358e8e05.js",
-      "path---articles-element-resize-event-polyfill-90d21c5ccf58358e8e05.js.map"
+      "path---articles-element-resize-event-polyfill-3a1e84cb66b530c1ed08.js",
+      "path---articles-element-resize-event-polyfill-3a1e84cb66b530c1ed08.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -59,9 +59,9 @@
       "component---src-pages-index-jsx-71fe515fc9d09c74b252.js.map"
     ],
     "app": [
-      "app-17904b1d6dc5eebd72a4.js",
+      "app-a96400bf2370e40a21d5.js",
       "build-js-styles.css",
-      "app-17904b1d6dc5eebd72a4.js.map",
+      "app-a96400bf2370e40a21d5.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -69,8 +69,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-16d3e39675d9f14f314e.js",
-      "path---about-16d3e39675d9f14f314e.js.map"
+      "path---about-2af2b744a283a2762eaf.js",
+      "path---about-2af2b744a283a2762eaf.js.map"
     ]
   }
 }
