@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---categories": [
-      "path---categories-e6d62641a10a641d4603.js",
-      "path---categories-e6d62641a10a641d4603.js.map"
+      "path---categories-6c9d2a0daab2f261802f.js",
+      "path---categories-6c9d2a0daab2f261802f.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js",
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js.map"
     ],
     "path---tags": [
-      "path---tags-e6d62641a10a641d4603.js",
-      "path---tags-e6d62641a10a641d4603.js.map"
+      "path---tags-6c9d2a0daab2f261802f.js",
+      "path---tags-6c9d2a0daab2f261802f.js.map"
     ],
     "path---": [
       "path----a41c66e21233cdc8f8da.js",
@@ -25,8 +25,8 @@
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js.map"
     ],
     "path---index": [
-      "path---index-dbaa394c5170d78714f5.js",
-      "path---index-dbaa394c5170d78714f5.js.map"
+      "path---index-97aaed6b2393cdeead04.js",
+      "path---index-97aaed6b2393cdeead04.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-a25b5d9428065f0a71aa.js",
@@ -43,8 +43,8 @@
       "build-js-styles.css.map"
     ],
     "path---articles-element-resize-event-polyfill": [
-      "path---articles-element-resize-event-polyfill-b3d5673dadb6aad4bd1d.js",
-      "path---articles-element-resize-event-polyfill-b3d5673dadb6aad4bd1d.js.map"
+      "path---articles-element-resize-event-polyfill-0fbad59f3f2060ff5234.js",
+      "path---articles-element-resize-event-polyfill-0fbad59f3f2060ff5234.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -59,8 +59,8 @@
       "component---src-pages-index-jsx-71fe515fc9d09c74b252.js.map"
     ],
     "path---articles-comment-editor": [
-      "path---articles-comment-editor-e4a54dc3411fdbc8783e.js",
-      "path---articles-comment-editor-e4a54dc3411fdbc8783e.js.map"
+      "path---articles-comment-editor-818eddb9c156c8a8715d.js",
+      "path---articles-comment-editor-818eddb9c156c8a8715d.js.map"
     ],
     "app": [
       "app-24c6c0c8a30a5430604d.js",
@@ -73,8 +73,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-df83326e8d16fdb5648d.js",
-      "path---about-df83326e8d16fdb5648d.js.map"
+      "path---about-9097e1e56807665a8200.js",
+      "path---about-9097e1e56807665a8200.js.map"
     ]
   }
 }
