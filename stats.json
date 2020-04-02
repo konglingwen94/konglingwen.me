@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---categories": [
-      "path---categories-6c9d2a0daab2f261802f.js",
-      "path---categories-6c9d2a0daab2f261802f.js.map"
+      "path---categories-ad6bf8bf202767570713.js",
+      "path---categories-ad6bf8bf202767570713.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js",
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js.map"
     ],
     "path---tags": [
-      "path---tags-6c9d2a0daab2f261802f.js",
-      "path---tags-6c9d2a0daab2f261802f.js.map"
+      "path---tags-ad6bf8bf202767570713.js",
+      "path---tags-ad6bf8bf202767570713.js.map"
     ],
     "path---": [
       "path----a41c66e21233cdc8f8da.js",
       "path----a41c66e21233cdc8f8da.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-c0b49fecb8055b444a8d.js",
-      "component---src-layouts-index-jsx-c0b49fecb8055b444a8d.js.map"
+      "component---src-layouts-index-jsx-52c4dd88d039447faf5e.js",
+      "component---src-layouts-index-jsx-52c4dd88d039447faf5e.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js",
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js.map"
     ],
     "path---index": [
-      "path---index-97aaed6b2393cdeead04.js",
-      "path---index-97aaed6b2393cdeead04.js.map"
+      "path---index-a95069d5ca4acda0ec78.js",
+      "path---index-a95069d5ca4acda0ec78.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-a25b5d9428065f0a71aa.js",
@@ -59,13 +59,17 @@
       "component---src-pages-index-jsx-71fe515fc9d09c74b252.js.map"
     ],
     "path---articles-comment-editor": [
-      "path---articles-comment-editor-0fa6ec985bc37c0c0027.js",
-      "path---articles-comment-editor-0fa6ec985bc37c0c0027.js.map"
+      "path---articles-comment-editor-44053b206a38d90112f7.js",
+      "path---articles-comment-editor-44053b206a38d90112f7.js.map"
+    ],
+    "path---articles-good-swiper": [
+      "path---articles-good-swiper-01177c3ddd97240ee16b.js",
+      "path---articles-good-swiper-01177c3ddd97240ee16b.js.map"
     ],
     "app": [
-      "app-24c6c0c8a30a5430604d.js",
+      "app-bc07a47a3f0000ed9d51.js",
       "build-js-styles.css",
-      "app-24c6c0c8a30a5430604d.js.map",
+      "app-bc07a47a3f0000ed9d51.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -73,8 +77,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-9097e1e56807665a8200.js",
-      "path---about-9097e1e56807665a8200.js.map"
+      "path---about-cfeeacebe6834fa01c25.js",
+      "path---about-cfeeacebe6834fa01c25.js.map"
     ]
   }
 }
