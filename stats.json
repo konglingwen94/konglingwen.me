@@ -1,16 +1,20 @@
 {
   "assetsByChunkName": {
+    "path---articles-deep-clone-object": [
+      "path---articles-deep-clone-object-f91a91ca1545ae2b135a.js",
+      "path---articles-deep-clone-object-f91a91ca1545ae2b135a.js.map"
+    ],
     "path---categories": [
-      "path---categories-ad6bf8bf202767570713.js",
-      "path---categories-ad6bf8bf202767570713.js.map"
+      "path---categories-cdbf58130b3ab31db752.js",
+      "path---categories-cdbf58130b3ab31db752.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js",
       "component---src-pages-tags-jsx-0a1905a7f389a97ea16d.js.map"
     ],
     "path---tags": [
-      "path---tags-ad6bf8bf202767570713.js",
-      "path---tags-ad6bf8bf202767570713.js.map"
+      "path---tags-cdbf58130b3ab31db752.js",
+      "path---tags-cdbf58130b3ab31db752.js.map"
     ],
     "path---": [
       "path----a41c66e21233cdc8f8da.js",
@@ -25,8 +29,8 @@
       "component---src-pages-categories-jsx-878ebe776c503198a6a5.js.map"
     ],
     "path---index": [
-      "path---index-a95069d5ca4acda0ec78.js",
-      "path---index-a95069d5ca4acda0ec78.js.map"
+      "path---index-78845bb45e721831b10c.js",
+      "path---index-78845bb45e721831b10c.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-a25b5d9428065f0a71aa.js",
@@ -63,13 +67,13 @@
       "path---articles-comment-editor-44053b206a38d90112f7.js.map"
     ],
     "path---articles-good-swiper": [
-      "path---articles-good-swiper-4e0fa540357623a5ec9d.js",
-      "path---articles-good-swiper-4e0fa540357623a5ec9d.js.map"
+      "path---articles-good-swiper-492bb1c312e6b515c6ef.js",
+      "path---articles-good-swiper-492bb1c312e6b515c6ef.js.map"
     ],
     "app": [
-      "app-bc07a47a3f0000ed9d51.js",
+      "app-0db54f92fdef53430f73.js",
       "build-js-styles.css",
-      "app-bc07a47a3f0000ed9d51.js.map",
+      "app-0db54f92fdef53430f73.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -77,8 +81,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-cfeeacebe6834fa01c25.js",
-      "path---about-cfeeacebe6834fa01c25.js.map"
+      "path---about-892084e558cfa09b56a2.js",
+      "path---about-892084e558cfa09b56a2.js.map"
     ]
   }
 }
